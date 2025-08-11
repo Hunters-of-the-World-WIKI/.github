@@ -1,6 +1,7 @@
 ## 🔥 Ближайшие активности Hunters
 
-![Let's go](https://media.tenor.com/<id>/AAA.gif)
+![Let's go](https://media.tenor.com/Ni2p1_6j0PYAAAAC/wolf-of-wall-street-lets-goo.gif)
+
 Тут всегда 2 ближайших события. Обновляем каждую неделю.
 
 | 📅 Дата       | 📝 Событие | 📌 Описание |
