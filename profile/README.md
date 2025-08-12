@@ -24,15 +24,11 @@
 ## 🔍 Практика в найме
 - [Поиск и сорсинг](https://github.com/ORG/ai-sourcing)
 - [Письма и общение](https://github.com/ORG/ai-outreach)
-- [Документы и скрининг](https://github.com/ORG/ai-docs-and-screening)
-- [Фидбек и синхронизация](https://github.com/ORG/ai-feedback)
+- [Скрининги, фидбеки и документы](https://github.com/Hunters-of-the-World-WIKI/ai-docs-feedback)
 - [Аналитика и отчёты](https://github.com/ORG/ai-analytics)
 
-## ✍️ Навыки и инструменты
-- [Как писать промпты](https://github.com/ORG/ai-prompt-engineering)
-- [Библиотека промптов](https://github.com/ORG/ai-prompt-library)
-- [Этика и безопасность](https://github.com/ORG/ai-ethics)
+## ✍️ [Промпты: как писать и готовые шаблоны](https://github.com/Hunters-of-the-World-WIKI/ai-prompts)
 
 ## 👥 Комьюнити и обучение
-- [Мероприятия и записи](https://github.com/ORG/ai-events)
+- [Архив воркшопов и мероприятий](https://github.com/ORG/ai-events)
 - [Курсы и ресурсы](https://github.com/ORG/ai-learning)
